@@ -1,0 +1,365 @@
+1. AWS Certified Cloud Practitioner exam results are reported as a score from 100-1,000. What is the minimum
+
+passing score?
+
+650
+
+700
+
+850
+
+900
+Answer:b
+2. Which domains are included on the AWS Certified Cloud Practitioner exam? (Select TWO.)
+
+Strategy: Think back to the exam domains that were reviewed earlier in this module. Based on the domains that you recall learning about, which response options do you think that you can eliminate as incorrect?
+
+Security and Compliance
+
+Automation and Optimization
+
+Monitoring and Reporting
+
+Billing and Pricing
+
+Deployment and Provisioning
+Answer :a and c
+
+
+
+Final assessment
+
+1. Which statement best describes Elastic Load Balancing?
+
+A service that enables you to set up, manage, and scale a distributed in memory or cache environment in the cloud
+
+A service that monitors your applications and automatically adds or removes capacity from your resource
+
+groups in response to changing demand Aservice that distributes incoming traffic across multiple targets, such as Amazon EC2 instances
+
+Aservice that provides data that you can use to monitor your applications, optimize resource utilization, and respond to system-wide performance changes
+Answer:c
+2. You want to send and receive messages between distributed application components. Which service should you
+
+use?
+
+Amazon Route 53
+
+AWS Snowball
+
+Amazon ElastiCache.
+
+Amazon Simple Queue Service (Amazon SQS)
+Answer:d
+3. Which compute option reduces costs when you commit to a consistent amount of compute usage for a 1 year or
+
+3 year term?
+
+Reserved Instances
+
+Spot Instances
+
+Savings Plans
+
+Dedicated Hosts
+
+4. Which tool is used to automate actions for AWS services and applications through scripts?
+
+AWS Command Line Interface
+
+Amazon Redshift
+
+Amazon QLDB
+
+AWS Snowball
+
+3. Which compute option reduces costs when you commit to a consistent amount of compute usage for a 1 year or
+
+3 year term?
+
+Reserved Instances
+
+Spot Instances
+
+Savings Plans
+
+Dedicated Hosts
+Answer : a
+4. Which tool is used to automate actions for AWS services and applications through scripts?
+
+AWS Command Line Interface
+
+Amazon Redshift
+
+Amazon QLDB
+
+AWS Snowball
+Answer:a
+
+5. Which statement best describes an Availability Zone?
+
+A separate geographical location with multiple locations that are isolated from each other A fully isolated portion of the AWS global infrastructure
+
+0000 The server from which Amazon CloudFront gets your files
+
+A site that Amazon CloudFront uses to cache coples of content for faster delivery to users at any location
+Answer: b
+6. Which action can you perform in Amazon CloudFront?
+
+Run infrastructure in a hybrid cloud approach.
+
+Provision resources by using programming languages or a text file.
+
+Provision an isolated section of the AWS Cloud to launch resources in a virtual network that you define
+
+Deliver content to customers through a global network of edge locations.
+Answer:d
+7. Which virtual private cloud (VPC) component controls inbound and outbound traffic for Amazon EC2 instances?
+
+Security group
+
+Network access control list
+
+Internet gateway
+
+Subnet
+Answer: a
+8. Which component or service enables you to establish a dedicated private connection between your data center and virtual private cloud (VPC)?
+
+Virtual private gateway
+
+AWS Direct Connect
+
+Amazon CloudFront
+
+Internet gateway
+
+Answer:b
+9. Which actions can you perform in Amazon Route 53? (Select TWO.)
+
+Access AWS security and compliance reports and select online agreements.
+
+Connect user requests to infrastructure in AWS and outside of AWS.
+
+Automate the deployment of workloads into your AWS environment.
+
+Monitor your applications and respond to system-wide performance changes
+
+Manage DNS records for domain names.
+Answer: b and e
+10. You want Amazon $3 to monitor your objects' access patterns. Which storage class should you use?
+
+Amazon 53 Glacier Flexible Retrieval
+
+Amazon S3 One Zone-IA
+
+Amazon S3 Intelligent-Tiering
+
+Amazon S3 Standard-IA
+Answer:c
+
+11. In the S3 Intelligent Tiering storage class, Amazon S3 moves objects between a frequent access tier and an infrequent access tier. Which storage classes are used for these tiers? (Select TWO.)
+
+Amazon S3 Standard-IA
+
+Amazon 53 Glacier Flexible Retrieval
+
+Amazon S3 Standard
+
+Amazon S3 Glacier Deep Archive
+
+Amazon S3 One Zone-IA
+
+0000 Amazon Simple Storage Service (Amazon S3) Amazon Elastic Block Store (Amazon EBS)
+Answer: a and c
+12. You want to store data in a volume that is attached to an Amazon EC2 instance. Which service should you use?
+
+AWS Lambda
+
+Amazon ElastiCache
+
+Ander EBS ( b)
+13. Which tasks are the responsibilities of AWS? (Select TWO.)
+
+Creating IAM users and groups
+
+Maintaining virtualization infrastructure
+
+Training company employees on how to use AWS services
+
+Configuring AWS infrastructure devices
+
+Configuring security groups on Amazon EC2 instances
+Answer: b and c
+14. Which service enables you to consolidate and manage multiple AWS accounts from a central location?
+
+AWS Key Management Service (AWS KMS)
+
+AWS Artifact
+
+AWS Organizations
+
+AWS Identity and Access Management (IAM)
+Answer:c
+15. Which statement best describes Amazon GuardDuty?
+
+Aservice that provides intelligent threat detection for your AWS infrastructure and resources A service that checks applications for security vulnerabilities and deviations from security best practices
+
+A service that helps protect your applications against distributed denial-of-service (DDoS) attacks
+
+OA service that lets you monitor network requests that come into your web applications
+Answer:a
+
+16. Which AWS Trusted Advisor category includes checks for high utilization EC2 instances?
+
+Cost Optimization
+
+Security
+
+Performance
+
+Fault Tolerance
+Answer:c
+17. Which service enables you to review details for user activities and API calls that have occurred within your AWS
+
+environment?
+
+AWS Cloud Trail
+
+Amazon CloudWatch
+
+AWS Trusted Advisor
+
+Amazon Inspector
+Answer:a
+
+
+18. Which tool enables you to visualize, understand, and manage your AWS costs and usage over time?
+
+AWS Pricing Calculator
+
+AWS Cost Explorer
+
+AWS Artifact
+
+AWS Budgets
+Answer: b
+19. Which Support plans include access to all AWS Trusted Advisor checks? (Select TWO.)
+
+Developer
+
+Basic
+
+Business
+
+Enterprise
+
+AWS Free Tier
+Answer: c and d
+21. Which service is used to quickly deploy and scale applications on AWS?
+
+AWS Outposts
+
+AWS Snowball
+
+AWS Elastic Beanstalk
+
+Amazon CloudFront
+Answer:c
+Which Perspective of the AWS Cloud Adoption Framework focuses on recovering IT workloads to meet the requirements of your business stakeholders?
+
+Operations Perspective
+
+Governance Perspective
+
+Business Perspective
+
+People Perspective
+Answer: c
+
+23. Which migration strategy involves changing how an application is architected and developed, typically by using cloud-native features?
+
+Rehosting
+
+Refactoring
+
+Replatforming
+
+Repurchasing
+Answer:b
+
+24. Which service enables you to build the workflows that are required for human review of machine learning
+
+predictions?
+
+Amazon Augmented Al
+
+Amazon Aurora
+
+Amazon Lex
+
+Amazon Textract
+Answer:a
+25. Which pillar of the AWS Well-Architected Framework focuses on using computing resources in ways that meet
+
+system requirements?
+
+Security
+
+Operational Excellence
+
+Performance Efficiency
+
+Reliability
+Answer:c
+
+26. You want to store data in a key-value database. Which service should you use?
+
+Amazon RDS
+
+Amazon Aurora.
+
+Amazon DynamoDB
+
+Amazon DocumentDB
+Ans :c
+27. You are running an Amazon EC2 instance and want to store data in an attached resource. Your data is temporary and will not be kept long term. Which resource should you use?
+
+Amazon Elastic Block Store (Amazon EBS) volume
+Subnet
+
+Instance store
+
+Amazon S3 bucket
+Answer:b
+28. Which service is used to transfer up to 80 PB of data to AWS?
+
+AWS DeepRacer
+
+AWS Snowmobile
+
+Amazon Neptune
+
+Amazon Cloudfront.
+Answer:b
+29. Which statement is TRUE for AWS Lambda?
+
+To use AWS Lambda, you must configure the servers that run your code.
+
+You pay only for compute time while your code is running. The first step in using AWS Lambda is provisioning a server.
+
+Before using AWS Lambda, you must prepay for your estimated compute time.
+Answer:b
+30. Which service is used to run containerized applications on AWS?
+
+0000 To use AWS Lambda, you must configure the servers that run your code.
+
+Amazon Elastic Kubernetes Service (Amazon EKS)
+
+Amazon Redshift
+
+Amazon SageMaker
+
+Amazon Aurora
+Answer:A
+
