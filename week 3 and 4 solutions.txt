@@ -1,0 +1,115 @@
+Which Amazon $3 storage classes are optimized for archival data? Select TWO,
+
+Amazon S3 Standard
+
+Amazon S3 Glacier Flexible Retrieval
+
+Amazon S3 intelligent-Tiering
+
+Amazon S3 Standard-IA
+
+Amazon S3 Glacier Deep Archive
+Answer:  b and e
+2. Which statement or statements are TRUE about Amazon EBS volumes and Amazon EFS file systems?
+
+EBS volumes store data within a single Availability Zone. Amazon EFS file systems store data across multiple
+
+Availability Zones.
+
+EBS volumes store data across multiple Availability Zones. Amazon EFS file systems store data within a single Availability Zone.
+
+EBS volumes and Amazon EFS file systems both store data within a single Availability Zone.
+
+EBS volumes and Amazon EFS file systems both store data across multiple Availability Zones
+Answer: a
+
+3. You want to store data in an object storage service. Which AWS service is best for this type of storage?
+
+Amazon Managed Blockchain
+
+Amazon Elastic File System (Amazon EFS)
+
+Amazon Elastic Block Store (Amazon EBS)
+
+Amazon Simple Storage Service (Amazon S3)
+Answer: d
+4. Which statement best describes Amazon DynamoDB?
+
+A service that enables you to run relational databases in the AWS Cloud
+
+A serverless key-value database service
+
+A service that you can use to migrate relational databases, nonrelational databases, and other types of data
+
+Stores
+
+An enterprise-class relational database
+Answer: b
+
+5. Which service is used to query and analyze data across a data warehouse?
+
+Amazon Redshift
+
+Amazon Neptune
+
+Amazon DocumentDB
+
+Amazon ElastiCache
+Answer: a
+
+Module 6
+
+1. Which statement best describes an IAM policy?
+
+An authentication process that provides an extra layer of protection for your AWS account
+
+An identity that you can assume to gain temporary access to permissions
+
+0000 A document that grants or denies permissions to AWS services and resources
+
+The identity that is established when you first create an AWS account
+Answer; b 
+
+2. An employee requires temporary access to create several Amazon S3 buckets. Which option would be the best choice for this task?
+
+AWS account root user
+
+IAM group
+
+IAM role
+
+Service control policy (SCP)
+Answer:c
+3. Which statement best describes the principle of least privilege?
+
+Adding an IAM user into at least one IAM group
+
+Granting only the permissions that are needed to perform specific tasks
+
+0000 Checking a packet's permissions against an access control list
+
+Performing a denial of service attack that originates from at least one device
+
+
+Answer: c
+4. Which service helps protect your applications against distributed denial-of-service (DDoS) attacks?
+
+Amazon GuardDuty
+
+Amazon Inspector
+
+AWS Artifact
+
+AWS Shield
+Answer: d
+
+5. Which task can AWS Key Management Service (AWS KMS) perform?
+
+Configure multi-factor authentication (MFA).
+
+Update the AWS account root user password.
+
+Create cryptographic keys.
+
+Assign permissions to users and groups.
+Answer: c
